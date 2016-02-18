@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+typography_spectrum: 0.890681
 color:
   saturation: 0.8082438
   brandStrength: 0.09139785
-  lightness: 0.1111111
+  lightness: 0
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#2F4A6F'
     - '#0066FF'
     - '#7997C7'
-  rhythmicContrast: 0.1577061
-typography_spectrum: 0.890681
+  rhythmicContrast: 0.0609319
 layout_spectrum: 0.8888889
 name: MVS Creatives
