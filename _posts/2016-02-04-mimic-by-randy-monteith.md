@@ -11,8 +11,8 @@ description: 'This site is all about Bands,Fans,Musicians,Art,Artists,Celebs,Des
 app_links: []
 isBasedOnUrl: 'http://www.mvs-musicvisionsound.com/apps/photos/photo?photoid=195171162'
 title: Mimic by Randy Monteith
-datePublished: '2016-02-18T00:33:35.406Z'
-dateModified: '2016-02-04T23:57:49.397Z'
+datePublished: '2016-02-18T00:48:47.267Z'
+dateModified: '2016-02-18T00:46:05.161Z'
 sourcePath: _posts/2016-02-04-mimic-by-randy-monteith.md
 published: true
 starred: false
