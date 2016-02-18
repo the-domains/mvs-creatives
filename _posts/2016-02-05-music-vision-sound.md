@@ -22,11 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.mvs-musicvisionsound.com/showcase-diego-valdez'
 title: Music Vision Sound
-datePublished: '2016-02-18T00:48:46.670Z'
-dateModified: '2016-02-18T00:46:04.952Z'
+datePublished: '2016-02-18T17:04:17.769Z'
+dateModified: '2016-02-18T17:04:06.088Z'
 sourcePath: _posts/2016-02-05-music-vision-sound.md
 published: true
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
