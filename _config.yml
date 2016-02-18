@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.890681
 color:
   saturation: 0.7448779
   brandStrength: 0.1541219
@@ -22,5 +21,6 @@ color:
     - '#E2C0C0'
     - '#A84142'
   rhythmicContrast: 0.1498789
-layout_spectrum: 0.1454559
+typography_spectrum: 0.890681
+layout_spectrum: 0.8888889
 name: MVS Creatives
