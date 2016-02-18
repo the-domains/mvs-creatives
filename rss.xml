@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MVS Creatives]]></title>
         <description><![CDATA[MVS Creatives]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mvs-creatives/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:34:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 00:34:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mvs-creatives/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CATCH! QUICKEE</p>]]></description>
+            <link>https://thegrid.ai/mvs-creatives/catch-quickee-catch-quickeeapp/index.html</link>
+            <guid isPermaLink="false">2634250c-3b18-4bc7-9a02-2e51efa8accb</guid>
+            <pubDate>Thu, 18 Feb 2016 00:33:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
-            <link>undefined3542441png-112141-pixels/index.html</link>
+            <link>https://thegrid.ai/mvs-creatives/3542441png-112141-pixels/index.html</link>
             <guid isPermaLink="false">964b6ed9-55d8-4802-a8f6-0566c7186832</guid>
             <pubDate>Thu, 18 Feb 2016 00:33:32 GMT</pubDate>
         </item>
