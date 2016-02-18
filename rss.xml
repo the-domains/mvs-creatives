@@ -4,7 +4,7 @@
         <description><![CDATA[MVS Creatives]]></description>
         <link>https://thegrid.ai/mvs-creatives/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 00:49:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 00:49:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mvs-creatives/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Get Connected]]></title>
@@ -12,13 +12,6 @@
             <link>http://www.mvs-musicvisionsound.com/get-connected</link>
             <guid isPermaLink="false">9153f016-6c58-4222-99a5-571509d3d6ad</guid>
             <pubDate>Thu, 18 Feb 2016 00:33:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Music Vision Sound - MVS-Showcase]]></title>
-            <description><![CDATA[<article><h1>Music Vision Sound - MVS-Showcase</h1><p>null</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0e2aea61f5dbe2ea4661db242d103e70541cacb8.jpg"></article>]]></description>
-            <link>http://www.mvs-musicvisionsound.com/mvs-showcase</link>
-            <guid isPermaLink="false">4b2a842c-ba47-4274-b83a-25fd0283c1e4</guid>
-            <pubDate>Thu, 18 Feb 2016 00:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Music Vision Sound]]></title>
@@ -74,6 +67,13 @@
             <description><![CDATA[<article></article>]]></description>
             <link>https://thegrid.ai/mvs-creatives/1320989_origpng-960389-pixels/index.html</link>
             <guid isPermaLink="false">ae927800-9ce6-4dc7-9bd9-2ec771500d0e</guid>
+            <pubDate>Thu, 18 Feb 2016 00:33:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>CATCH! QUICKEE</p>]]></description>
+            <link>https://thegrid.ai/mvs-creatives/catch-quickee-catch-quickeeapp/index.html</link>
+            <guid isPermaLink="false">2634250c-3b18-4bc7-9a02-2e51efa8accb</guid>
             <pubDate>Thu, 18 Feb 2016 00:33:32 GMT</pubDate>
         </item>
     </channel>
