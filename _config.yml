@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.890681
 color:
-  saturation: 0.4731183
+  saturation: 0.6899642
   brandStrength: 0
-  lightness: 0.8817204
+  lightness: 0.7096774
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#2F4A6F'
     - '#0066FF'
     - '#7997C7'
-  rhythmicContrast: 0.5770609
+  rhythmicContrast: 0.2598566
 layout_spectrum: 1
 name: MVS Creatives
