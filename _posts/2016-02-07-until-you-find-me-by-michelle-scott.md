@@ -22,11 +22,11 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.redbubble.com/people/blueskies/works/4805149-until-you-find-me?p=throw-pillow'
 title: Until you find me by Michelle Scott
-datePublished: '2016-02-18T17:04:17.712Z'
-dateModified: '2016-02-18T17:04:06.087Z'
+datePublished: '2016-02-24T21:07:52.613Z'
+dateModified: '2016-02-19T02:05:48.226Z'
 sourcePath: _posts/2016-02-07-until-you-find-me-by-michelle-scott.md
 published: true
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
