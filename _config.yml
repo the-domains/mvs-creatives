@@ -1,3 +1,7 @@
+name: MVS Creatives
+favicon: null
+layout_spectrum: 0.8835126
+typography_spectrum: 0.86201
 collections:
   - index:
       path: /
@@ -10,17 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6899642
-  brandStrength: 0
-  rhythmicContrast: 0.2598566
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#2F4A6F'
     - '#0066FF'
     - '#7997C7'
+  brandStrength: 0
   lightness: 0.7096774
-typography_spectrum: 0.3082437
-layout_spectrum: 0.8835126
-name: MVS Creatives
+  saturation: 0.6899642
+  rhythmicContrast: 0.2598566
+purpose: []
