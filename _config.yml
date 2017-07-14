@@ -1,40 +1,70 @@
 name: MVS Creatives
-favicon: null
-layout_spectrum: 0.79765
-typography_spectrum: 0.86201
+analytics: {}
+purpose: []
+github: true
+description: MVS
+cta:
+  bucket: null
+  version: null
+  domain: null
+author:
+  name: 'mvs '
+  email: michelle.scott@musicvisionsound.com
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.5343386191931913
 color:
+  lightness: 0.3315832377150471
   brandColors:
     - '#FFFFFF'
     - '#010101'
     - '#2F4A6F'
     - '#0066FF'
     - '#7997C7'
-  brandStrength: 0
-  lightness: 0.7096774
-  saturation: 0.6899642
-  rhythmicContrast: 0.2598566
-purpose: []
+  saturation: 0.02819518722105071
+  brandStrength: 0.01154495573750153
+  rhythmicContrast: 0.6797278391983876
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4021af6-0063-4a00-aa25-91c8f28490dc.png
+content_rating:
+  adult: false
+typography_spectrum: 0.6476715043621452
+opengraph: {}
+title: MUSIC VISION SOUND
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdbca445-020c-4cd4-97de-8e3307a5f371.png
