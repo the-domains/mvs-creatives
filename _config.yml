@@ -9,45 +9,8 @@ cta:
   domain: null
 author:
   name: 'mvs '
+  url: 'http://www.mvs-musicvisionsound.com'
   email: michelle.scott@musicvisionsound.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-    permalink:
-      path: '/:title/'
-content:
-  - id: !<tag:yaml.org,2002:js/undefined> ''
-    type: image
-    html: >-
-      <img
-      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png">
-    src: >-
-      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png
-    metadata:
-      author: []
-      datePublished: null
-      keywords: []
-      '@type': MediaObject
-      publisher:
-        favicon: null
-        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
-        name: The-grid-user-content
-        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      description: ''
-      related: []
-      app_links: []
-      '@context': 'http://schema.org'
-    title: !<tag:yaml.org,2002:js/undefined> ''
-    caption: !<tag:yaml.org,2002:js/undefined> ''
-    text: !<tag:yaml.org,2002:js/undefined> ''
-layout_spectrum: 0.5343386191931913
 color:
   lightness: 0.3315832377150471
   brandColors:
@@ -59,10 +22,48 @@ color:
   saturation: 0.02819518722105071
   brandStrength: 0.01154495573750153
   rhythmicContrast: 0.6797278391983876
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/6b9b86e4-293c-4a6e-a2d5-fbd7a3958611.png
+    metadata:
+      author: []
+      '@context': 'http://schema.org'
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+layout_spectrum: 0.5343386191931913
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4021af6-0063-4a00-aa25-91c8f28490dc.png
 content_rating:
   adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 typography_spectrum: 0.6476715043621452
 opengraph: {}
 title: MUSIC VISION SOUND
