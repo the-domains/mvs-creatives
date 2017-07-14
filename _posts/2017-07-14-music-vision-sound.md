@@ -1,7 +1,8 @@
 ---
-publisher: {}
-datePublished: '2017-07-14T01:03:46.442Z'
-dateModified: '2017-07-14T01:02:24.962Z'
+publisher:
+  name: 'MVS '
+datePublished: '2017-07-14T01:11:59.150Z'
+dateModified: '2017-07-14T01:11:56.528Z'
 description: >-
   Connecting & Promoting Creatives from around the world - Come Get Connected
   with M.V.S- Artists, Music, Events, Celebs & more!!!
