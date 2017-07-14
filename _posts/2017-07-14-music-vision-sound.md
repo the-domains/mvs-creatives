@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-07-14T00:51:12.394Z'
-dateModified: '2017-07-14T00:51:00.815Z'
+datePublished: '2017-07-14T01:01:12.763Z'
+dateModified: '2017-07-14T01:01:10.087Z'
 description: >-
   Connecting & Promoting Creatives from around the world - Come Get Connected
   with M.V.S- Artists, Music, Events, Celebs & more!!!
@@ -16,4 +16,4 @@ datePublishedOriginal: '2017-07-14T00:49:51.022Z'
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23fed52-fb5c-42a5-bc74-419543234af7.jpg)
+![Connecting & Promoting Creatives from around the world - Come Get Connected with M.V.S- Artists, Music, Events, Celebs & more!!!](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23fed52-fb5c-42a5-bc74-419543234af7.jpg)
