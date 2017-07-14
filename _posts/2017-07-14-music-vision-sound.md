@@ -1,19 +1,19 @@
 ---
 publisher: {}
-dateModified: '2017-07-14T00:49:48.348Z'
-via: {}
+datePublished: '2017-07-14T00:51:12.394Z'
+dateModified: '2017-07-14T00:51:00.815Z'
 description: >-
   Connecting & Promoting Creatives from around the world - Come Get Connected
   with M.V.S- Artists, Music, Events, Celebs & more!!!
+via: {}
+sourcePath: _posts/2017-07-14-music-vision-sound.md
 title: Music Vision Sound
+isBasedOnUrl: 'http://www.mvs-musicvisionsound.com'
 inFeed: true
 author: []
-datePublished: '2017-07-14T00:49:51.022Z'
-isBasedOnUrl: 'http://www.mvs-musicvisionsound.com'
 starred: true
 datePublishedOriginal: '2017-07-14T00:49:51.022Z'
-sourcePath: _posts/2017-07-14-music-vision-sound.md
 _type: MediaObject
 
 ---
-<article style=""><h1>Music Vision Sound</h1><p>Connecting &amp; Promoting Creatives from around the world - Come Get Connected with M.V.S- Artists, Music, Events, Celebs &amp; more!!!</p><img src="http://mediaprocessor.websimages.com/fit/1920x1920/farm6.static.flickr.com/5272/7209646120_3f8a6b4ccc_b.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e23fed52-fb5c-42a5-bc74-419543234af7.jpg)
