@@ -1,16 +1,16 @@
-layout_spectrum: 0.039872912000495905
-typography_spectrum: 0.8479754242618189
+layout_spectrum: 0.9137439676707076
+typography_spectrum: 0.8950057615314859
 color:
-  lightness: 0.8962635690918985
+  lightness: 0.6530903636920496
   brandColors:
     - '#FF8000'
     - '#FFD933'
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
-  saturation: 0.2749454286132045
-  brandStrength: 0.6005293520937425
-  rhythmicContrast: 0.7267539628627387
+  saturation: 0.6657831121456469
+  brandStrength: 0.662927873322814
+  rhythmicContrast: 0.3474169569750234
 name: MVS Creatives
 analytics: {}
 purpose: []
