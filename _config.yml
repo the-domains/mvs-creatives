@@ -1,16 +1,18 @@
-layout_spectrum: 0.9137439676707076
-typography_spectrum: 0.8950057615314859
+layout_spectrum: 0.14605321652717004
+typography_spectrum: 0.10886122676968059
 color:
-  lightness: 0.6530903636920496
+  lightness: 0.683885916865311
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
-  saturation: 0.6657831121456469
-  brandStrength: 0.662927873322814
-  rhythmicContrast: 0.3474169569750234
+    - '#F6F792'
+    - '#333745'
+    - '#77C4D3'
+    - '#DAEDE2'
+    - '#EA2E49'
+  saturation: 0.43079199945839985
+  brandStrength: 0.4068729464564067
+  rhythmicContrast: 0.2708081067514855
+coverPrefs:
+  filter: false
 name: MVS Creatives
 analytics: {}
 purpose: []
