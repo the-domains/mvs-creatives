@@ -1,14 +1,10 @@
 ---
-author:
-  - name: M.V.S
-    url: null
-    avatar: {}
-related: []
-publisher:
-  favicon: 'https://cdn.thinglink.me/cb1830103730/gfx/favicon.ico'
-  url: 'http://thinglink.com'
-  name: ThingLink
-  domain: www.thinglink.com
+app_links: []
+datePublished: '2018-02-12T19:48:22.789Z'
+description: TOUCH this image to discover its story. Image tagging powered by ThingLink
+via: {}
+inLanguage: en
+isBasedOnUrl: 'https://www.thinglink.com/scene/563439460797120513'
 keywords:
   - images
   - info
@@ -20,19 +16,19 @@ keywords:
   - abusive
   - violent
   - sexual
-description: TOUCH this image to discover its story. Image tagging powered by ThingLink
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://www.thinglink.com/scene/563439460797120513'
-title: 'M.V.S Arts & Entertainment by M.V.S'
-datePublished: '2016-02-18T17:04:17.766Z'
-dateModified: '2016-02-18T17:04:06.095Z'
-sourcePath: _posts/2016-02-07-mvs-arts-and-entertainment-by-mvs.md
-published: true
-starred: true
 inFeed: true
-hasPage: false
-inNav: false
+publisher:
+  name: MVS
+  favicon: 'https://cdn.thinglink.me/cb1830103730/gfx/favicon.ico'
+  url: 'http://thinglink.com'
+  domain: www.thinglink.com
+dateModified: '2018-02-12T19:48:21.325Z'
+related: []
+sourcePath: _posts/2016-02-07-mvs-arts-and-entertainment-by-mvs.md
+title: M.V.S Arts & Entertainment by M.V.S
+author: []
+starred: false
+datePublishedOriginal: '2016-02-18T17:04:17.766Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
